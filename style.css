@@ -1,3 +1,22 @@
-h1{
+h1 {
     color:blueviolet
+}
+h2{
+    color:blue;
+}
+
+
+
+a {
+    color: green;
+    font-family:cursive;
+}
+a:visited{
+    text-decoration:none;
+    color:red;
+    font-family:'Times New Roman', Times, serif;
+}
+
+set{
+    text-align: center;
 }
