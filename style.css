@@ -1,11 +1,24 @@
 .center {
     text-align: center;
 }
+.friend1{
+position: relative;
+}
+.friend2{
+position: absolute;
+bottom: 0;
+right: 0;
+}
+
 h1 {
     color:blueviolet
 }
 h2{
     color:blue;
+}
+h2.about{
+    color:green;
+    font-family:sans-serif;
 }
 
 
